@@ -1,4 +1,4 @@
-# TE-2-45-AMP-CRYSTAL-RADIO
+# TE-2-AMP-CRYSTAL-RADIO
 
 ## Amplify! your crystal radio set
 
